@@ -1,0 +1,1 @@
+import FourTechEngineering from "./components/FourTechEngineering"; export default function App(){return <FourTechEngineering/>;}
